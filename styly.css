@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.block {
+  width: 406px;
+  height: 561px;
+  margin: auto;
+  font-family: verdana, sans-serif;
+}
+.container {
+  width: 302px;
+  height: 464px;
+  border-color: #D3D3D3;
+  border-width: 1px;
+  border-style: solid;
+}
+.tarif {
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 62px;
+  margin-left: 88px;
+  margin-right: 91px;
+  width: 150px;
+}
+.cost {
+  font-size: 48px;
+  padding-right: 13px;
+}
+.rub {
+  font-size: 18px;
+}
+.price {
+  padding-left: 63px;
+  font-style: normal;
+  color: #5BA2A9;
+}
+.services {
+  width: 201px;
+  height: 114px;
+  text-align: center;
+  font-size: 14px;
+  margin-left: 50px;
+  margin-right: 47px;
+
+}
+button {
+  margin-left: 49px;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  width: 202px;
+  height: 56px;
+  background: #5BA2A9;
+  border-color: rgba(232, 232, 232, 1);
+  text-transform: uppercase;
+  color:aliceblue;
+  font-weight: bold;
+  cursor: pointer;
+
+}
+  
+  
+  
